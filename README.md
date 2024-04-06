@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @patrickmf97
-- 👀 I’m interested in carrying out responsive design projects, which cater to all types of users
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT, to become a FullStack developer
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, Sass and Bootstrap
-- 📫 How to reach me https://www.linkedin.com/in/patrickmf97/
+👋 Hey there, I'm Patrick (@patrickmf97)!
 
-<!---
-patrickmf97/patrickmf97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Welcome to my coding playground! I'm on a mission to craft seamless and captivating digital experiences through responsive design.
+
+🌱 Currently diving deep into the realms of HTML, CSS, JavaScript, React, TypeScript, Node.js, and Next.js. Dreaming big to become a versatile FullStack magician!
+
+💼 Let's collaborate on projects that push boundaries and redefine user interaction. I thrive on challenges and innovation, so bring it on!
+
+💬 Want to chat tech, swap coding tips, or discuss the latest trends? Hit me up! I'm always eager to connect with fellow developers and enthusiasts.
+
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/patrickmf97/) and let's create something extraordinary together!
