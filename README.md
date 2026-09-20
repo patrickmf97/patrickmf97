@@ -27,13 +27,15 @@ Também estou aprofundando meus conhecimentos em **AWS e arquitetura de soluçõ
 
 ## 02 · Projetos selecionados
 
+> Cases que representam melhor minha atuação atual — do conceito à experiência publicada.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Yanina · Psicologia Online
+### Yanina · Psicologia Online
 
-Plataforma bilíngue de atendimento com autenticação, agenda, reservas, pagamentos e painel administrativo.
+**Produto:** plataforma bilíngue de atendimento.\n\n**Experiência:** autenticação, agenda, reservas, pagamentos e painel administrativo em um fluxo integrado.
 
 **React · Vite · Supabase · Stripe · Playwright**
 
@@ -42,9 +44,9 @@ Plataforma bilíngue de atendimento com autenticação, agenda, reservas, pagame
 </td>
 <td width="50%" valign="top">
 
-### 🍰 DoceLiz
+### DoceLiz · Catálogo Digital
 
-Catálogo digital para confeitaria com carrinho, fluxo de pedidos via WhatsApp e estrutura administrativa com Supabase.
+**Produto:** catálogo digital para confeitaria.\n\n**Experiência:** descoberta → carrinho → pedido via WhatsApp, com estrutura administrativa em Supabase.
 
 **React · Vite · Supabase · JavaScript**
 
@@ -55,9 +57,9 @@ Catálogo digital para confeitaria com carrinho, fluxo de pedidos via WhatsApp e
 <tr>
 <td width="50%" valign="top">
 
-### 💈 Modern Barber
+### Modern Barber
 
-Landing page comercial responsiva para barbearias, com vitrine de serviços e pré-agendamento integrado ao WhatsApp.
+**Produto:** landing page comercial responsiva.\n\n**Experiência:** serviços → decisão → pré-agendamento no WhatsApp com poucas etapas.
 
 **HTML5 · Bootstrap · JavaScript · Sass**
 
@@ -68,24 +70,13 @@ Landing page comercial responsiva para barbearias, com vitrine de serviços e pr
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Converta Studio
+### Converta Studio
 
-Presença digital do meu estúdio de desenvolvimento, criado para transformar ideias e negócios em soluções digitais.
+**Produto:** presença digital do meu estúdio.\n\n**Objetivo:** apresentar soluções com clareza e transformar interesse em contato comercial.
 
 **Web · UX · Conversão · Soluções sob medida**
 
 [Repositório](https://github.com/patrickmf97/Convertastudio) · [Site](https://www.convertastudio.online)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌸 Amora Atelier
-
-Projeto de portfólio voltado à presença digital de pequenos negócios e marcas autorais.
-
-**Projeto em evolução**
-
-[Repositório](https://github.com/patrickmf97/amora-atelier)
 
 </td>
 </tr>
@@ -141,12 +132,9 @@ Estou expandindo minha atuação em **Amazon Web Services**, estudando infraestr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=patrickmf97&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmf97&layout=compact&hide_border=true&theme=github_dark" />
+**Código em evolução contínua.** Meus repositórios registram projetos comerciais, estudos e experimentos que fazem parte da minha trajetória como desenvolvedor.
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickmf97&theme=github-dark-blue&hide_border=true" />
+[![GitHub](https://img.shields.io/badge/Ver_todos_os_repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickmf97?tab=repositories)
 
 </div>
 
