@@ -15,17 +15,17 @@
 
 ---
 
-## Sobre mim
+## 01 · Perfil
 
-Desenvolvedor focado em criar **sites, aplicações web e soluções digitais para problemas reais**.
+Desenvolvedor focado em **produtos web modernos, responsivos e orientados a objetivos reais**.
 
-À frente da **Converta Studio**, desenvolvo experiências digitais para profissionais e pequenos negócios, combinando interface, automação, dados e conversão. Meu GitHub registra essa evolução: dos fundamentos do desenvolvimento web a projetos completos com autenticação, pagamentos, banco de dados e deploy.
+À frente da **Converta Studio**, transformo necessidades de profissionais e pequenos negócios em interfaces claras, fluxos simples e soluções digitais funcionais. Minha abordagem combina **desenvolvimento, UI/UX, automação e visão de produto**.
 
 Também estou aprofundando meus conhecimentos em **AWS e arquitetura de soluções em nuvem**, buscando unir desenvolvimento e cloud na construção de produtos cada vez mais completos.
 
 ---
 
-## Projetos em destaque
+## 02 · Projetos selecionados
 
 <table>
 <tr>
@@ -64,17 +64,6 @@ Landing page comercial responsiva para barbearias, com vitrine de serviços e pr
 [Repositório](https://github.com/patrickmf97/modern-barber) · [Projeto online](https://patrickmf97.github.io/modern-barber/)
 
 </td>
-<td width="50%" valign="top">
-
-### 🎂 Confeitaria da Liz
-
-Experiência digital responsiva para confeitaria, com navegação em React e fluxo de pedidos direcionado ao WhatsApp.
-
-**React · Vite · Tailwind CSS · React Router**
-
-[Repositório](https://github.com/patrickmf97/liz-confeitaria) · [Projeto online](https://confeitariadaliz.shop/)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -104,7 +93,21 @@ Projeto de portfólio voltado à presença digital de pequenos negócios e marca
 
 ---
 
-## Stack & ferramentas
+## 03 · Princípios de UI/UX
+
+**Hierarquia antes de decoração.** Cada tela precisa comunicar primeiro o que importa.
+
+**Menos atrito, mais intenção.** Navegação, formulários e CTAs devem exigir o mínimo de esforço necessário.
+
+**Mobile não é adaptação tardia.** A experiência precisa funcionar bem onde o usuário realmente está.
+
+**Consistência gera confiança.** Espaçamento, tipografia, componentes e feedbacks seguem uma linguagem previsível.
+
+**Design serve ao produto.** Uma interface bonita só faz sentido quando ajuda o usuário e o negócio a atingir seus objetivos.
+
+---
+
+## 04 · Stack
 
 <div align="center">
 
@@ -126,7 +129,7 @@ Projeto de portfólio voltado à presença digital de pequenos negócios e marca
 
 ---
 
-## Cloud
+## 05 · Cloud & evolução
 
 > Desenvolvimento + infraestrutura + visão de produto.
 
@@ -134,7 +137,7 @@ Estou expandindo minha atuação em **Amazon Web Services**, estudando infraestr
 
 ---
 
-## GitHub em números
+## 06 · GitHub
 
 <div align="center">
 
