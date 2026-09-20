@@ -35,7 +35,9 @@ Também estou aprofundando meus conhecimentos em **AWS e arquitetura de soluçõ
 
 ### Yanina · Psicologia Online
 
-**Produto:** plataforma bilíngue de atendimento.\n\n**Experiência:** autenticação, agenda, reservas, pagamentos e painel administrativo em um fluxo integrado.
+**Produto:** plataforma bilíngue de atendimento.
+
+**Experiência:** autenticação, agenda, reservas, pagamentos e painel administrativo em um fluxo integrado.
 
 **React · Vite · Supabase · Stripe · Playwright**
 
@@ -46,7 +48,9 @@ Também estou aprofundando meus conhecimentos em **AWS e arquitetura de soluçõ
 
 ### DoceLiz · Catálogo Digital
 
-**Produto:** catálogo digital para confeitaria.\n\n**Experiência:** descoberta → carrinho → pedido via WhatsApp, com estrutura administrativa em Supabase.
+**Produto:** catálogo digital para confeitaria.
+
+**Experiência:** descoberta → carrinho → pedido via WhatsApp, com estrutura administrativa em Supabase.
 
 **React · Vite · Supabase · JavaScript**
 
@@ -59,22 +63,24 @@ Também estou aprofundando meus conhecimentos em **AWS e arquitetura de soluçõ
 
 ### Modern Barber
 
-**Produto:** landing page comercial responsiva.\n\n**Experiência:** serviços → decisão → pré-agendamento no WhatsApp com poucas etapas.
+**Produto:** landing page comercial responsiva.
+
+**Experiência:** serviços → decisão → pré-agendamento no WhatsApp com poucas etapas.
 
 **HTML5 · Bootstrap · JavaScript · Sass**
 
 [Repositório](https://github.com/patrickmf97/modern-barber) · [Projeto online](https://patrickmf97.github.io/modern-barber/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Converta Studio
 
-**Produto:** presença digital do meu estúdio.\n\n**Objetivo:** apresentar soluções com clareza e transformar interesse em contato comercial.
+**Produto:** presença digital do meu estúdio.
 
-**Web · UX · Conversão · Soluções sob medida**
+**Objetivo:** apresentar soluções com clareza e transformar interesse em contato comercial.
+
+**Web · UI/UX · Conversão · Soluções sob medida**
 
 [Repositório](https://github.com/patrickmf97/Convertastudio) · [Site](https://www.convertastudio.online)
 
